@@ -1,4 +1,4 @@
-- Hi, I’m @BBGard
+- Hi, I’m Ben Gardiner.
 - I’m interested in things.
 - I’m currently learning HTML & CSS, Java, and studying a Bachelor of Information Technology.
 - I’m looking to collaborate on anything.
