@@ -1,6 +1,6 @@
 - Hi, I’m @BBGard
 - I’m interested in things.
-- I’m currently learning HTML & CSS, Git, and studying a Bachelor of Information Technology.
+- I’m currently learning HTML & CSS, Java, and studying a Bachelor of Information Technology.
 - I’m looking to collaborate on anything.
 - How to reach me ... here!
 
