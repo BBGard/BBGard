@@ -1,16 +1,16 @@
-## Welcome!
-#### I'm Benjamin Gardiner, a passionate software engineer with a love for technology and a keen interest in crafting digital experiences.
+## G'Day!
+#### I'm Ben, a tech enthusiast and front-end web developer with a passion for building accessible solutions with the latest technologies.
 ---
 
 #### :neutral_face: About Me
 
 - 🎓 Bachelor of Information Technology - Distinction
-- 💻 Software Engineer | Problem Solver | Knowledge Pursuer
+- 💻 Web Developer | Problem Solver | Knowledge Pursuer
 ---
 
 #### :fire: Currently Using
 
-- `React.js`, `Astro`, `JavaScript`, `Firebase`, `Node.js`, `git`, `Netlify`
+- `React.js`, `Astro`, `JavaScript`, `Firebase`, `Node.js`, `git`, `Netlify`, `WordPress`, `Webflow`
 ---
 
 #### :point_down: Dabbled In
