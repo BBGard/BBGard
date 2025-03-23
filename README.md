@@ -5,6 +5,7 @@
 #### :neutral_face: About Me
 
 - 🎓 Bachelor of Information Technology - Distinction
+- 🎓 Certificate IV in Cyber Security
 - 💻 Software Developer | Problem Solver | Knowledge Pursuer
 ---
 
